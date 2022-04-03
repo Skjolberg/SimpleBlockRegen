@@ -1,0 +1,2 @@
+# SimpleBlockRegenWIKI
+Wiki for SimpleBlockRegen
