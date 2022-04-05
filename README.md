@@ -20,7 +20,7 @@ SimpleBlockRegen is a Minecraft plugin for automatic mining areas, Prison or any
 
 [![Created](https://badges.pufler.dev/created/Skjolberg/SimpleBlockRegenPlugin)](https://github.com/Skjolberg/SimpleBlockRegenPlugin)
 [![Updated](https://badges.pufler.dev/updated/Skjolberg/SimpleBlockRegenPlugin)](https://github.com/Skjolberg/SimpleBlockRegenPlugin)
-
+[![Discord](https://img.shields.io/discord/955564646708961442?label=Discord)](https://discord.gg/pKZb4nYy97)
 
 ##
 
