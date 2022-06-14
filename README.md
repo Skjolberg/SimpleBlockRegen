@@ -4,7 +4,7 @@ SimpleBlockRegen is a Minecraft plugin for automatic mining areas, Prison or any
 
 ## Prerequisites
 - Java 11
-- Minecraft version: 1.13 - 1.18
+- Minecraft version: 1.13 - 1.19
 
 ## Downloads
 ### Free version
