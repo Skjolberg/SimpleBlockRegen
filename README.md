@@ -14,7 +14,7 @@ SimpleBlockRegen is a Minecraft plugin for automatic mining areas, Prison or any
 - [Mc-Market](https://www.mc-market.org/resources/23328/)
 - [Songoda](https://songoda.com/marketplace/product/simpleblockregen-automatic-mining-areas-prison-or-any-other-type-of-use.807)
 - [Polymart](https://polymart.org/resource/simpleblockregen.2465)
-- [DevBuilds](https://discord.gg/ztGkQYbssr)
+- [DevBuilds](https://discord.gg/pHFYxRUkAP)
 
 ## Links
 
