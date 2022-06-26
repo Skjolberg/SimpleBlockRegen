@@ -7,17 +7,18 @@ SimpleBlockRegen is a Minecraft plugin for automatic mining areas, Prison or any
 - Minecraft version: 1.13 - 1.19
 
 ## Downloads
+### Premium version
+- [Mc-Market](https://www.mc-market.org/resources/24046/)
 ### Free version
 - [Spigot](https://www.spigotmc.org/resources/simpleblockregen.100875/)
 - [Mc-Market](https://www.mc-market.org/resources/23328/)
 - [Songoda](https://songoda.com/marketplace/product/simpleblockregen-automatic-mining-areas-prison-or-any-other-type-of-use.807)
 - [Polymart](https://polymart.org/resource/simpleblockregen.2465)
-### Premium version
-- [Mc-Market](https://www.mc-market.org/resources/24046/)
+- [DevBuilds](https://discord.gg/ztGkQYbssr)
 
 ## Links
 
-- [Discord](https://discord.gg/qbRYxxHPZx)
+- [Discord](https://discord.gg/pKZb4nYy97)
 - [Wiki](https://github.com/Skjolberg/SimpleBlockRegenWIKI/wiki)
 
 [![Commits](https://img.shields.io/github/commit-activity/m/Skjolberg/SimpleBlockRegen?color=lim&label=Commits)](https://github.com/Skjolberg/SimpleBlockRegen)
