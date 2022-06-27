@@ -28,4 +28,4 @@ This page is based on SBR Premium, although it can be used as a reference for th
 ##
 
 
-![Vanilla](https://shibacraft.net/img/SimpleBlockRegen/Lienzo.png)
+![Vanilla](https://shibacraft.net/img/SimpleBlockRegen/LienzoPremium.png)
