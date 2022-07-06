@@ -22,7 +22,6 @@ This page is based on SBR Premium, although it can be used as a reference for th
 - [Discord](https://discord.gg/pKZb4nYy97)
 - [Wiki](https://github.com/Skjolberg/SimpleBlockRegenWIKI/wiki)
 
-[![Commits](https://img.shields.io/github/commit-activity/m/Skjolberg/SimpleBlockRegen?color=lim&label=Commits)](https://github.com/Skjolberg/SimpleBlockRegen)
 [![Discord](https://img.shields.io/discord/955564646708961442?label=Discord)](https://discord.gg/pKZb4nYy97)
 [![Servers](https://img.shields.io/bstats/servers/14757?color=lim&label=servers%20using%20SimpleBlockRegen)](https://github.com/Skjolberg/SimpleBlockRegen)
 ##
