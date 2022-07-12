@@ -5,7 +5,7 @@ This page is based on SBR Premium, although it can be used as a reference for th
 
 ## Prerequisites
 - Java 16
-- Minecraft version: 1.16 - 1.19
+- Minecraft version 1.16 - 1.19
 
 ## Downloads
 ### Premium version
