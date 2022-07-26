@@ -10,6 +10,7 @@ This page is based on SBR Premium, although it can be used as a reference for th
 ## Downloads
 ### Premium version
 - [Mc-Market](https://www.mc-market.org/resources/24046/)
+- [Spigot](https://www.spigotmc.org/resources/simpleblockregen-premium.103286/)
 ### Free version
 - [Spigot](https://www.spigotmc.org/resources/simpleblockregen.100875/)
 - [Mc-Market](https://www.mc-market.org/resources/23328/)
